@@ -1,0 +1,11 @@
+{
+    "name": "My Slash",
+    "description": "Template for a simples Slack Slash Command",
+    "keywords": [
+        "slack",
+        "bottle",
+        "python",
+        "web"
+    ],
+    "repository": "https://github.com/ellisonleao/myslash"
+}
